@@ -1,0 +1,24 @@
+<package>
+	<id>com.zjx.ioscontrol</id>
+	<name>zxtouch</name>
+	<version>0.0.7-10</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<maxiOS>15.8</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>zxtouch backup. original author: Jason Z</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>backup release</change>
+	</changelog>
+	<links></links>
+</package>

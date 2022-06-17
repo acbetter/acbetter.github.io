@@ -1,0 +1,24 @@
+<package>
+	<id>jp.akusio.backgrounderaction13</id>
+	<name>BackgrounderAction2 for CCSupport</name>
+	<version>0.1.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<maxiOS>13.6</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>[iOS13]Add "Toggle Background Mode" action to ControlCenter.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

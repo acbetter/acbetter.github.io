@@ -1,0 +1,72 @@
+Package: com.alexpng.cacheclearerx
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Installed-Size: 1216
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.alexpng.cacheclearerx_1.1_iphoneos-arm.deb
+Size: 1002192
+MD5sum: cd4d56e579c8ae0a4690ab926ab767c2
+SHA1: e49ff880d9aa9ef5bab4253e67341839ae2d3955
+SHA256: 4170ec7662b6fe4d4a6c3e6cccd20cff85d109f186956706f847ac1cf11dab6e
+Section: Tweaks
+Description: Clear applications cache from the storage settings or from the 3D Touch/Force Touch Shortcut.
+Author: alex_png <alex.png.cc@gmail.com>
+Depiction: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/
+Icon: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/DebIcon.png
+Name: CacheClearerX
+Sileodepiction: https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/cacheclearerx.json
+
+Package: com.zjx.ioscontrol
+Version: 0.0.6
+Architecture: iphoneos-arm
+Maintainer: Jason Z
+Installed-Size: 65604
+Depends: sudo, mobilesubstrate
+Conflicts: zxtouch-python3.7
+Filename: ./debs/com.zjx.ioscontrol_0.0.6_iphoneos-arm.deb
+Size: 12411840
+MD5sum: bfa37a66817885d006f4ec77ead9e935
+SHA1: b8e95efc15807f7d92b98449dd039c598a008ed1
+SHA256: 6e1ccb4955b8873b3cc4ac18e71db220e2bbec71e6d09c1ddcabdc927372042a
+Section: Utilities
+Description: ZXTouch SpringBoard tweak and app
+Tag: role::developer
+Author: Jason Z
+Name: ZXTouch
+
+Package: com.zjx.ioscontrol
+Version: 0.0.7-10
+Architecture: iphoneos-arm
+Maintainer: Jason Z
+Installed-Size: 70076
+Depends: sudo, mobilesubstrate
+Conflicts: zxtouch-python3.7, libpython3.7, libactivator (<< 1.8.3)
+Filename: ./debs/com.zjx.ioscontrol_0.0.7-10_iphoneos-arm.deb
+Size: 13374176
+MD5sum: a6044c40ba7620ed3ab4bbda0621b02d
+SHA1: 9d41558244de85b2e03bc01ea598b1692131624f
+SHA256: e2e51e75b8e5e4111c751a2ca488be7193a9bac714225d395964d55ee0003622
+Section: Utilities
+Description: ZXTouch Main Application
+Tag: role::developer
+Author: Jason Z
+Name: ZXTouch
+
+Package: jp.akusio.backgrounderaction13
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 244
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/jp.akusio.backgrounderaction13_0.1.4_iphoneos-arm.deb
+Size: 14078
+MD5sum: c310760bda4ccc7e5ed3722aed9ef7de
+SHA1: b8619c32ee626b06376975eb84beecfd65cdae84
+SHA256: ad5dc505166d41fd2d60bd1ff9223e46ff1ba48999a57483cc78d8c946dec9c0
+Section: Tweaks
+Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
+Author: akusio <akusio-report@neko2.net>
+Depiction: https://akusio.github.io/descriptions/backgrounderaction13/index.html
+Name: BackgrounderAction2 for CCSupport
+
